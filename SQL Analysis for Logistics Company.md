@@ -77,6 +77,12 @@ Key findings from the analysis:
 
 These insights can inform targeted marketing, driver incentives, and proactive intervention for underperforming drivers.
 
+<img width="1500" height="900" alt="top_mileage_improvers" src="https://github.com/user-attachments/assets/dac9b39d-7a41-4d97-a3b0-f2c75d6155d1" />
+<img width="1500" height="900" alt="top_efficient_drivers" src="https://github.com/user-attachments/assets/1bbebd6e-fa53-4dc3-a2e0-7f4865eeddee" />
+<img width="1500" height="1200" alt="rolling_drop_drivers" src="https://github.com/user-attachments/assets/a98a07e7-236c-4a9b-add1-69280de84564" />
+<img width="1500" height="900" alt="customer_quartiles" src="https://github.com/user-attachments/assets/96734c88-b646-43b2-b146-d722856d88b2" />
+
+
 ## Conclusion
 
 This project illustrates a practical application of SQL window functions and related techniques to solve common business problems in logistics. The structured approach mirrors the workflow used in data analyst roles.
